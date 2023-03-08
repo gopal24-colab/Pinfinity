@@ -24,7 +24,7 @@ export default {
       type: 'string',
     },
     {
-      name: 'imgage',
+      name: 'image',
       title: 'Image',
       type: 'image',
       options: {
